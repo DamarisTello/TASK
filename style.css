@@ -53,19 +53,13 @@ u{
 } 
 
 .boton{
-    padding-left: 1150px;
+    padding-left: 930px;
  
 }
 
-button{
-    background-color: orange;
-    font-size: 11px;
-}
-
-
 .h1 {
     font-style: unset;
-    font-size: 80px;
+    font-size: 70px;
     font-family: 'Courier New', Courier, monospace;
 }
 
