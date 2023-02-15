@@ -1,5 +1,12 @@
-img{
+h2{
     background-color: black;
-    width: 400;
-    height: 300;
+}
+.h2{
+    color: orange;
+    font-weight: arial;
+}
+.h3{
+    color: black;
+    background-color: orange;
+    font-style: oblique;
 }
