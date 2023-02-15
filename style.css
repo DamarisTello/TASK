@@ -8,35 +8,74 @@
 h2{
     background-color: black;
 }
+
 .h2{
     color: orange;
     font-weight: arial;
     padding-left: 605px;
 }
+
+.espaciologo{
+    width: 35%;
+    border: 3px inset black;
+    position: relative;
+    left: auto;
+    
+}
+
 .h3{
-    color: black;
-    background-color: orange;
+     color: black;
+    
+    
     font-style: oblique;
+    width: 60%;
+height:60%;
+border: black;
+position: absolute;
+left: 530px;
+top:130%;
+
+   
+    
 }
-p {
-    background-color: blue;
-    color: blanchedalmond;
-    display: inline;
-}
+   
+
 u{
     color: blue;
 }
+
 .imagen1{
     width: 1334px;
     border: 3px inset black;
-   
+    position: relative;
+    left: 0;
+    top: 120%; 
 } 
+
 .boton{
-    padding-left: 1100px;
-    background-color: orange;
-   
-   
+    padding-left: 1150px;
+ 
 }
-.espaciologo{
-    margin-top: 120px;
+
+button{
+    background-color: orange;
+    font-size: 11px;
+}
+
+
+.h1 {
+    font-style: unset;
+    font-size: 80px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.logo1 {
+width: 20px;
+height: 20px;
+border-radius: 50%; 
+border: black;
+position: absolute;
+left: 85%;
+top:92%;
+
 }
